@@ -19,5 +19,6 @@ int main()
 			++k;
 		}
 	}
+	cout << k;
 	return 0;
 }
