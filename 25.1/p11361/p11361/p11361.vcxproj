@@ -124,6 +124,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="fipi2018.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="task11361.cpp" />
     <ClCompile Include="task25fipi.cpp" />
@@ -132,6 +133,8 @@
     <ClInclude Include="task25.h" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="fipi2018.txt" />
+    <Text Include="fipi2019.txt" />
     <Text Include="task11361.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

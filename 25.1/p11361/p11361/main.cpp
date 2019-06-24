@@ -5,6 +5,6 @@ using namespace std;
 
 int main()
 {
-	taskFipi2019();
+	fipi2018();
 	return 0;
 }

@@ -24,9 +24,18 @@
     <ClCompile Include="task25fipi.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="fipi2018.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="task11361.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="fipi2019.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="fipi2018.txt">
       <Filter>Файлы ресурсов</Filter>
     </Text>
   </ItemGroup>
