@@ -1,10 +1,10 @@
 #include <iostream>
-#include "task11361.h"
+#include "task25.h"
 
 using namespace std;
 
 int main()
 {
-	cout << task11361();
+	taskFipi2019();
 	return 0;
 }

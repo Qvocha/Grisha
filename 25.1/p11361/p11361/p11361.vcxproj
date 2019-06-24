@@ -126,9 +126,10 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="task11361.cpp" />
+    <ClCompile Include="task25fipi.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="task11361.h" />
+    <ClInclude Include="task25.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="task11361.txt" />

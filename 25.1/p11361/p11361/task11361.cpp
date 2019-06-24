@@ -1,3 +1,4 @@
+#include "task25.h"
 #include <iostream>
 
 using namespace std;
